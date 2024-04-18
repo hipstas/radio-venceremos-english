@@ -23,6 +23,64 @@
         "id": "https://hipstas.github.io/radio-venceremos-english/may-27-1981-pm/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2829,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-27-1981-pm-canvas-1-political-context.json",
+            "label": {
+              "none": ["Political Context"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-27-1981-pm-canvas-1-casualties.json",
+            "label": {
+              "none": ["Casualties"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-27-1981-pm-canvas-1-sound-effects.json",
+            "label": {
+              "none": ["Sound Effects"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-27-1981-pm-canvas-1-music.json",
+            "label": {
+              "none": ["Music"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-27-1981-pm-canvas-1-abductions.json",
+            "label": {
+              "none": ["Abductions"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-27-1981-pm-canvas-1-armed-combat.json",
+            "label": {
+              "none": ["Armed Combat"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-27-1981-pm-canvas-1-radio-venceremos.json",
+            "label": {
+              "none": ["Radio Venceremos"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://hipstas.github.io/radio-venceremos-english/may-27-1981-pm/canvas-1/paintings",

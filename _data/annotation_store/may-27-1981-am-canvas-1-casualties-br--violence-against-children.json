@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-27-1981-am-canvas-1-casualties-br--violence-against-children.json",
+  "type": "AnnotationPage",
+  "label": "Casualties<br> Violence against children",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-27-1981-am-canvas-1-casualties-br--violence-against-children-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They killed whoever they caught there. They killed nineteen, among them children and the elderly just because they were refugees and others from the same town they had them on a list to kill, but among the nineteen that they killed were children, elderly people, and women that were nursing.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://hipstas.github.io/radio-venceremos-english/may-27-1981-am/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/radio-venceremos-english/may-27-1981-am/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1742.0,1760.0"
+        }
+      }
+    }
+  ]
+}

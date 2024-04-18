@@ -14,6 +14,6 @@ El Salvador, 1981-1990
   <br>
   <br>
 <br>
-<h2>Project in <a href="https://hipstas.github.io/radio-venceremos-spanish/">Spanish</a></h2>
+<h2>Project in <a href="https://hipstas.github.io/radio-venceremos-espanol/">Spanish</a></h2>
 <br>
 

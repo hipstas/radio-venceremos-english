@@ -23,6 +23,80 @@
         "id": "https://hipstas.github.io/radio-venceremos-english/may-26-1981-pm/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2812,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-plomo-informativo-br--combats-br--casualties.json",
+            "label": {
+              "none": ["Plomo Informativo\u003cbr\u003e Combats\u003cbr\u003e Casualties"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-plomo-informativo-br--torture-br--casualties.json",
+            "label": {
+              "none": ["Plomo Informativo\u003cbr\u003e Torture\u003cbr\u003e Casualties"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-plomo-informativo.json",
+            "label": {
+              "none": ["Plomo Informativo"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-radio-venceremos-br--fmln.json",
+            "label": {
+              "none": ["Radio Venceremos\u003cbr\u003e FMLN"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-political-context.json",
+            "label": {
+              "none": ["Political Context"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-casualties.json",
+            "label": {
+              "none": ["Casualties"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-music.json",
+            "label": {
+              "none": ["Music"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-combat.json",
+            "label": {
+              "none": ["Combat"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-radio-venceremos.json",
+            "label": {
+              "none": ["Radio Venceremos"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://hipstas.github.io/radio-venceremos-english/may-26-1981-pm/canvas-1/paintings",

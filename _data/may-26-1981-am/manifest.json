@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-internacional.json",
-            "label": {
-              "none": ["Internacional"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://hipstas.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-masacre.json",
             "label": {
               "none": ["Masacre"]
